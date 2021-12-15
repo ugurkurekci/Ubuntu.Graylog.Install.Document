@@ -76,3 +76,6 @@ netstat –tuln
 (servis portu kontrol)
 ----------------------------
 http://192.168.1.107:9000/ 
+
+
+<a href="https://sistemdostu.com/ubuntu-cihaza-graylog-kurulumu/">Kaynak</a>
